@@ -1,0 +1,9 @@
+c:\users\jeada\documents\visual studio 2010\Projects\Scientific Calculator in VB.net\Scientific Calculator in VB.net\bin\Debug\Scientific Calculator in VB.net.exe
+c:\users\jeada\documents\visual studio 2010\Projects\Scientific Calculator in VB.net\Scientific Calculator in VB.net\bin\Debug\Scientific Calculator in VB.net.pdb
+c:\users\jeada\documents\visual studio 2010\Projects\Scientific Calculator in VB.net\Scientific Calculator in VB.net\bin\Debug\Scientific Calculator in VB.net.xml
+c:\users\jeada\documents\visual studio 2010\Projects\Scientific Calculator in VB.net\Scientific Calculator in VB.net\obj\x86\Debug\Scientific_Calculator_in_VB.net.Form1.resources
+c:\users\jeada\documents\visual studio 2010\Projects\Scientific Calculator in VB.net\Scientific Calculator in VB.net\obj\x86\Debug\Scientific_Calculator_in_VB.net.Resources.resources
+c:\users\jeada\documents\visual studio 2010\Projects\Scientific Calculator in VB.net\Scientific Calculator in VB.net\obj\x86\Debug\Scientific Calculator in VB.net.vbproj.GenerateResource.Cache
+c:\users\jeada\documents\visual studio 2010\Projects\Scientific Calculator in VB.net\Scientific Calculator in VB.net\obj\x86\Debug\Scientific Calculator in VB.net.exe
+c:\users\jeada\documents\visual studio 2010\Projects\Scientific Calculator in VB.net\Scientific Calculator in VB.net\obj\x86\Debug\Scientific Calculator in VB.net.xml
+c:\users\jeada\documents\visual studio 2010\Projects\Scientific Calculator in VB.net\Scientific Calculator in VB.net\obj\x86\Debug\Scientific Calculator in VB.net.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Scientific Calculator in VB.net", "Scientific Calculator in VB.net\Scientific Calculator in VB.net.vbproj", "{3BB45EB0-925D-48D3-A736-0A1FD895DEF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BB45EB0-925D-48D3-A736-0A1FD895DEF6}.Debug|x86.ActiveCfg = Debug|x86
+		{3BB45EB0-925D-48D3-A736-0A1FD895DEF6}.Debug|x86.Build.0 = Debug|x86
+		{3BB45EB0-925D-48D3-A736-0A1FD895DEF6}.Release|x86.ActiveCfg = Release|x86
+		{3BB45EB0-925D-48D3-A736-0A1FD895DEF6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
